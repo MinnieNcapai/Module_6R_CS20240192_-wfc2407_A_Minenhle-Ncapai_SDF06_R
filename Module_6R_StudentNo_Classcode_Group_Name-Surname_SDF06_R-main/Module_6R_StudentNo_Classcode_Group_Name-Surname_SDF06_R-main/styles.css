@@ -108,14 +108,16 @@ margin-left: 25px;
 }
 .profile-settings-btn{
     margin-left: 10px;
-    border-radius: 7%;
+    border-radius: 15%;
+    border-style: ridge;
 
 }
 
 
 .profile-edit-btn{
    margin-left: 15px;
-   border-radius: 7%;
+   border-radius: 16%;
+   border-style: ridge;
 }
 
 .profile-stats {
